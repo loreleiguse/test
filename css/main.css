@@ -1,0 +1,137 @@
+.btn-one{
+    width: 200px;
+    height: 35px;
+    background-color: #2b2b2b;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.btn-one:hover{
+    cursor: pointer;
+    border: 2px solid #2b2b2b;
+    background-color: white;
+    color: #2b2b2b;
+    width: 196px;
+    height: 31px;
+    padding-top: 13px;
+    padding-bottom: 2px;
+}
+
+.btn-two{
+    width: 196px;
+    height: 31px;
+    border: 2px solid #2b2b2b;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 15px;
+    color: #2b2b2b;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.btn-two:hover{
+    cursor: pointer;
+    border: 2px solid #2b2b2b;
+    border-radius: 5px;
+    background-color: #2b2b2b;
+    padding-top: 15px;
+    color: white;
+}
+
+.btn-three{
+    width: 196px;
+    height: 31px;
+    border: 2px solid #2196f3;
+    background-color: #2196f3;
+    border-radius: 35px;
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.btn-three:hover{
+    cursor: pointer;
+    background-color: white;
+    color: #2196f3;
+}
+
+.btn-four{
+    width: 196px;
+    height: 31px;
+    border: 2px dashed #2196f3;
+    border-radius: 35px;
+    text-align: center;
+    padding-top: 15px;
+    color: #2196f3;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.btn-four:hover{
+    cursor: pointer;
+    border: 2px solid #2196f3;
+}
+
+.btn-five{
+    width: 200px;
+    height: 53px;
+    border: 2px solid #2b2b2b;
+    padding-top: 5px;
+    padding-left: 5px;
+    border-radius: 53px;
+    padding-bottom: 1px;
+}
+
+.btn-five:hover{
+    cursor: pointer;
+}
+
+.btn-five .icon{
+    width: 50px;
+    height: 35px;
+    background-color: #2b2b2b;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+    font-weight: bold;
+    float: left;
+}
+
+.btn-five .text{
+    margin-top: 15px;
+    font-weight: bold;
+    float: left;
+    margin-left: 20px;
+}
+
+.social-media{
+    width: 500px;
+    height: 35px;
+    margin-top: 20px;
+}
+
+.social{
+    width: 40px;
+    height: 28px;
+    float: left;
+    border: 2px solid #2b2b2b;
+    margin: 5px;
+    text-align: center;
+    padding-top: 12px;
+    font-weight: bold;
+    color: #2b2b2b;
+    border-radius: 50%;
+}
+
+.social:hover{
+    background-color: #2b2b2b;
+    color: #ffffff;
+    cursor: pointer;
+}
